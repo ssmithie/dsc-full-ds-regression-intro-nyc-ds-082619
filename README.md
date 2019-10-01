@@ -3,7 +3,7 @@
 
 ## Introduction
 
-In this section, you'll get a chance to synthesize your skills and conduct work through the entire Data Science workflow. To start, you'll extract appropriate data from a SQL database. From there, you'll continue exploring and cleaning your data, modeling the data, and conducting statistical analyses!
+In this section, you'll get a chance to synthesize your skills and work through the entire Data Science workflow. To start, you'll extract appropriate data from a SQL database. From there, you'll continue exploring and cleaning your data, modeling the data, and conducting statistical analyses!
 
 ## Objectives
 You will be able to:
